@@ -1,4 +1,4 @@
-# Week 1
+# Agenda
 > ### It's better to light a candle than to curse the dark.  
 >  -[K'naan, In The Beginning](https://www.youtube.com/watch?v=uq0pygjQK74)
 
