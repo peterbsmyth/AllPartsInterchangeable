@@ -1,5 +1,7 @@
 # Agenda
 
+_Any fool can write code that a computer can understand. Good programmers write code that humans can understand._ - Martin Fowler
+
 Code Golf - solve a specific problem in as few lines of code as possible.
 
 Things to think about while golfing:
