@@ -1,6 +1,17 @@
 # Agenda
 
-Here is a simple [ASCII art][1] snowman:
+Code Golf - solve a specific problem in as few lines of code as possible.
+
+Things to think about while golfing:
+ - What does your language of choice do well (with respect to code golf)?
+ - What does your language of choice do poorly (with respect to code golf)?
+ - Did you ever hit a point where your code becomes 'unreadable'?
+ - Is there such a thing as 'the best solution' to a problem?
+ - How do you determine if/when a particular solution is elegant?
+
+# The Problem
+
+Here is a simple ASCII art snowman:
 
     _===_
     (.,.)
