@@ -14,7 +14,7 @@ As a club we study code to improve our skills in the workplace and on our projec
 - Food
 
 ### Agendas
-1. [first](agenda.md)
+1. [first](agenda_01.md)
 2. [second](agenda_02.md)
 3. [third](agenda_03.md)
 4. [fourth](agenda_04.md)
