@@ -15,6 +15,6 @@ As a club we study code to improve our skills in the workplace and on our projec
 
 ### Agendas
 1. [first](agenda.md)
-2. [second](agenda_2.md)
-3. [third](agenda_3.md)
-4. [fourth](agenda_4.md)
+2. [second](agenda_02.md)
+3. [third](agenda_03.md)
+4. [fourth](agenda_04.md)
