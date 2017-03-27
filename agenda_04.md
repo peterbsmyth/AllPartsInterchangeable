@@ -171,3 +171,6 @@ Another example, the snowperson for input `33232124`:
 
 - Instead of a program, you may write a function that takes the digit string as an argument. The output should be printed normally or returned as a string.
 - You may treat the input as an integer instead of a string if preferred.
+
+## Food
+Catering from [Creole Soul Café](http://creolesoulcafe.com/index.html) on East Jefferson St.
