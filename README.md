@@ -13,6 +13,9 @@ As a club we study code to improve our skills in the workplace and on our projec
 - Knowledge
 - Food
 
+**Dues**
+$20 / month, due at first meeting of month. 
+
 ### Agendas
 1. [first](agenda_01.md)
 2. [second](agenda_02.md)
