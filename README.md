@@ -23,3 +23,4 @@ $20 / month, due at first meeting of month.
 4. [fourth](agenda_04.md)
 5. [fifth](agenda_05.md)
 5. [sixth](agenda_06.md)
+5. [seventh](agenda_07.md)
