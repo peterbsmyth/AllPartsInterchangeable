@@ -7,14 +7,14 @@ As a club we study code to improve our skills in the workplace and on our projec
 - No Social Media
 - No Sponsorship
 - No Slack
-  
+
 **Promises:**
 - Time
 - Knowledge
 - Food
 
 **Dues**
-$20 / month, due at first meeting of month. 
+$20 / month, due at first meeting of month.
 
 ### Agendas
 1. [first](agenda_01.md)
@@ -25,3 +25,4 @@ $20 / month, due at first meeting of month.
 5. [sixth](agenda_06.md)
 5. [seventh](agenda_07.md)
 5. [eighth](agenda_08.md)
+5. [ninth](agenda_09.md)
