@@ -19,5 +19,5 @@ Either on your own or in a group, spend one hour learning a topic of your choice
 Catering from Creole Soul on East Jefferson Street.
 
 ## Upcoming Demo & Talk
-Next Week: A Talk by Jordan Messina
-In Two Weeks: RxJS/Observables talk by John Shanley & Peter B Smith
+Next Week: A Talk by Jordan Messina  
+Two Weeks Out: RxJS/Observables talk by John Shanley & Peter B Smith
