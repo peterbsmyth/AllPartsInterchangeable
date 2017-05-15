@@ -26,6 +26,7 @@ $20 / month, due at first meeting of month.
 7. [seventh](agenda_07.md)
 8. [eighth](agenda_08.md)
 9. [ninth](agenda_09.md)
+10. [tenth](agenda_10.md)
 
 ### How to Run a Night
 1. Create an agenda which includes: A quote, an activity, the name of the caterer and link to their website
