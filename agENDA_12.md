@@ -7,6 +7,10 @@
 ## Talk
 Jordan Messina  
 
+### Notes
+- Machine Learning
+- [Jupyter](www.jupyter.org)
+
 ## Detail
 Who: Dan Viau, Gus Cost, Ryan Gaus  
 For: Lekia Hill  
