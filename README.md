@@ -29,7 +29,9 @@ $20 / month, due at first meeting of month.
 10. [tenth](agenda_10.md)
 11. [eleventh](agenda_11.md)
 12. [twelfth](agenda_12.md)
-12. [thirteenth](agenda_13.md)
+13. [thirteenth](agenda_13.md)
+14. [fourteenth](agenda_14.md)
+15. [fifteenth](agenda_15.md)
 
 ### How to Run a Night
 1. Create an agenda from the [template](AGENDA_TEMPLATE.md)
